@@ -1,4 +1,7 @@
 WEATHER APP
 made with React.js
 
-API => rapidAPI.COM
+API
+rapidAPI.COM
+
+openWeather API
